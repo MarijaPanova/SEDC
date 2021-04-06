@@ -1,2 +1,2 @@
 # SEDC
-Code repository for exercises and homeworks
+Code repository for the NOT test
