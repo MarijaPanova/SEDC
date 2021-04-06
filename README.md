@@ -1,2 +1,2 @@
 # SEDC
-Code repository for the NOT test
+Code repository for exercises
